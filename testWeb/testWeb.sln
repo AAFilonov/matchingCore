@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testWeb", "testWeb\testWeb.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{58FFF1F5-45B8-43E3-9AE8-1FC8BE691B13}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{002D0876-6AD9-47BA-92C3-E54B26941386}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLayer", "ServiceLayer\ServiceLayer.csproj", "{9F45472F-4A53-4ED3-A21D-CAB14B8CCA67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{58FFF1F5-45B8-43E3-9AE8-1FC8BE691B13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58FFF1F5-45B8-43E3-9AE8-1FC8BE691B13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58FFF1F5-45B8-43E3-9AE8-1FC8BE691B13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{002D0876-6AD9-47BA-92C3-E54B26941386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{002D0876-6AD9-47BA-92C3-E54B26941386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{002D0876-6AD9-47BA-92C3-E54B26941386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{002D0876-6AD9-47BA-92C3-E54B26941386}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F45472F-4A53-4ED3-A21D-CAB14B8CCA67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F45472F-4A53-4ED3-A21D-CAB14B8CCA67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F45472F-4A53-4ED3-A21D-CAB14B8CCA67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F45472F-4A53-4ED3-A21D-CAB14B8CCA67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
